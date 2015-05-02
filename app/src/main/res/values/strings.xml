@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">ЕГЭ 2015 - История</string>
+    <string name="action_settings">Настройки</string>
+    <string name="back">Вернуться назад</string>
+
+    <string name="login_email">Email/Логин</string>
+    <string name="login_login">Логин</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_enter">Вход</string>
+    <string name="login_registration">Регистрация</string>
+    <string name="error_login_pass">Учётной записи с таким логином или паролем не существует.</string>
+    <string name="error_login_pass_reg">Ошибка: введите Email и пароль для регистрации.</string>
+
+    <string name="title_section_topics">Вопросы по темам</string>
+    <string name="title_section_testme">Пройти тестирование</string>
+    <string name="title_section_myresults">Мои результаты</string>
+    <string name="title_section_datetable">Даты</string>
+    <string name="title_section_terms">Определения</string>
+    <string name="title_section_governors">Правители</string>
+
+    <string name="testme_nextbutton">Следующий вопрос</string>
+
+    <string name="results_tab_statistic">Результаты</string>
+    <string name="results_tab_answers">Ответы</string>
+
+</resources>

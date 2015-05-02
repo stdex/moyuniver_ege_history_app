@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <!--<TextView-->
+        <!--android:layout_width="296dp"-->
+        <!--android:layout_height="0dp"-->
+        <!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+        <!--android:text="CATEGORIES"-->
+        <!--android:id="@+id/category"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:layout_weight="0.14" />-->
+
+    <Button
+        android:layout_width="229dp"
+        android:layout_height="0dp"
+        android:text="@string/title_section_topics"
+        android:id="@+id/section_topics"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.17" />
+
+    <Button
+        android:layout_width="228dp"
+        android:layout_height="0dp"
+        android:text="@string/title_section_testme"
+        android:id="@+id/section_testme"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.17" />
+
+    <Button
+        android:layout_width="221dp"
+        android:layout_height="0dp"
+        android:text="@string/title_section_myresults"
+        android:id="@+id/section_myresults"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.17" />
+
+    <Button
+        android:layout_width="221dp"
+        android:layout_height="0dp"
+        android:text="@string/title_section_datetable"
+        android:id="@+id/section_datetable"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.17" />
+    <Button
+        android:layout_width="221dp"
+        android:layout_height="0dp"
+        android:text="@string/title_section_terms"
+        android:id="@+id/section_terms"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.17" />
+    <Button
+        android:layout_width="221dp"
+        android:layout_height="0dp"
+        android:text="@string/title_section_governors"
+        android:id="@+id/section_governors"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.17" />
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shine.testdata" >
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.shine.testdata.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".RegistrationActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".CategoryActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".TopicsActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".TestByTopicsActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="TestMeActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".MyResults" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".ResultActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="TabResults" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="TabTResults" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="TabDate" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="DateTableActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="DateActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="TermsActivity" >
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="GovernorsActivity" >
+        </activity>
+    </application>
+
+</manifest>

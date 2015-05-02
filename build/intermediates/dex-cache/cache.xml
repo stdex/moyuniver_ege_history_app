@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7c166ec43654570f422ae5a140b066c666950261.jar" />
+    </item>
+    <item
+        jar="/opt/androidIDE/A_SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-797f0c7c7c3f620183b8088ec5b99137b0ec5385.jar" />
+    </item>
+    <item
+        jar="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/pre-dexed/debug/classes-b74a8871eeeb2a522fb9ee90dd88f8c12fa1e82a.jar" />
+    </item>
+    <item
+        jar="/home/rostunov/.gradle/caches/modules-2/files-2.1/com.google.collections/google-collections/1.0/9ffe71ac6dcab6bc03ea13f5c2e7b2804e69b357/google-collections-1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9ffe71ac6dcab6bc03ea13f5c2e7b2804e69b357">
+        <dex dex="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/pre-dexed/debug/google-collections-1.0-e48531436251de3b501cd0fa6ffcf2db627b6f25.jar" />
+    </item>
+    <item
+        jar="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/rostunov/android_app/QuizAppAndroid-master/app/build/intermediates/pre-dexed/debug/classes-d11e8644c42f9fd814610c6fef5f22d5e6f54812.jar" />
+    </item>
+
+</items>
